@@ -1,0 +1,232 @@
+{
+	"contact": {
+		"name": "Thomas Deinhamer",
+		"email": "hi@thasmo.com",
+		"website": "https://thasmo.com/",
+		"photo": "https://avatar.thasmo.com/",
+		"location": {
+			"city": "Salzburg",
+			"country": "Austria"
+		}
+	},
+	"languages": [
+		{
+			"name": "German",
+			"level": "native"
+		},
+		{
+			"name": "English",
+			"level": "fluent"
+		}
+	],
+	"interests": [
+		"music",
+		"food",
+		"movies",
+		"technology",
+		"coffee",
+		"internet",
+		"gaming"
+	],
+	"experiences": [
+		{
+			"company": "DBG Digital Brands Group GmbH",
+			"url": "https://www.dbg-digital.com/",
+			"positions": [
+				{
+					"name": "Senior Frontend Developer",
+					"start": "2023-10",
+					"end": "2024-12"
+				}
+			]
+		},
+		{
+			"company": "pixelart GmbH",
+			"url": "https://www.pixelart-agency.com/",
+			"positions": [
+				{
+					"name": "Senior Web Developer",
+					"start": "2018-01",
+					"end": "2023-09"
+				},
+				{
+					"name": "Web Developer",
+					"start": "2015-08",
+					"end": "2017-12"
+				}
+			]
+		},
+		{
+			"company": "LOOP New Media GmbH",
+			"url": "https://www.agentur-loop.com/",
+			"positions": [
+				{
+					"name": "Web Developer",
+					"start": "2012-11",
+					"end": "2015-06"
+				}
+			]
+		},
+		{
+			"company": "eyedea Werbe GmbH",
+			"url": "https://www.eyedea.at/",
+			"positions": [
+				{
+					"name": "Web Developer",
+					"start": "2009-07",
+					"end": "2012-10"
+				}
+			]
+		},
+		{
+			"company": "Connetation Web Engineering GmbH",
+			"url": "https://www.connetation.at/",
+			"positions": [
+				{
+					"name": "Web Developer",
+					"start": "2007-10",
+					"end": "2009-06"
+				}
+			]
+		},
+		{
+			"company": "ncm - Net Communication Management GmbH",
+			"url": "https://www.ncm.at/",
+			"positions": [
+				{
+					"name": "Web Developer",
+					"start": "2007-03",
+					"end": "2007-09"
+				}
+			]
+		}
+	],
+	"projects": [],
+	"skills": [
+		{
+			"name": "Git",
+			"level": "experienced",
+			"url": "https://git-scm.com/"
+		},
+		{
+			"name": "OpenAI",
+			"level": "foundational",
+			"url": "https://openai.com/"
+		},
+		{
+			"name": "Pinecone",
+			"level": "foundational",
+			"url": "https://www.pinecone.io/"
+		},
+		{
+			"name": "Next.js",
+			"level": "foundational",
+			"url": "https://nextjs.org/"
+		},
+		{
+			"name": "unocss",
+			"level": "proficient",
+			"url": "https://unocss.dev/"
+		},
+		{
+			"name": "Tailwind",
+			"level": "proficient",
+			"url": "https://tailwindcss.com/"
+		},
+		{
+			"name": "ESLint",
+			"level": "proficient",
+			"url": "https://eslint.org/"
+		},
+		{
+			"name": "Jest",
+			"level": "proficient",
+			"url": "https://jestjs.io/"
+		},
+		{
+			"name": "Webpack",
+			"level": "proficient",
+			"url": "https://webpack.js.org/"
+		},
+		{
+			"name": "GraphQL",
+			"level": "proficient",
+			"url": "https://graphql.org/"
+		},
+		{
+			"name": "XML",
+			"level": "experienced",
+			"url": "https://www.w3schools.com/xml/"
+		},
+		{
+			"name": "Angular",
+			"level": "foundational",
+			"url": "https://angular.io/"
+		},
+		{
+			"name": "GSAP",
+			"level": "experienced",
+			"url": "https://gsap.com/"
+		},
+		{
+			"name": "Symfony",
+			"level": "proficient",
+			"url": "https://symfony.com/"
+		},
+		{
+			"name": "Docker",
+			"level": "proficient",
+			"url": "https://www.docker.com/"
+		},
+		{
+			"name": "PHP",
+			"level": "experienced",
+			"url": "https://www.php.net/"
+		},
+		{
+			"name": "SQL",
+			"level": "proficient",
+			"url": "https://www.w3schools.com/sql/"
+		},
+		{
+			"name": "TYPO3",
+			"level": "experienced",
+			"url": "https://typo3.org/"
+		},
+		{
+			"name": "React",
+			"level": "proficient",
+			"url": "https://react.dev/"
+		},
+		{
+			"name": "TypeScript",
+			"level": "experienced",
+			"url": "https://www.typescriptlang.org/"
+		},
+		{
+			"name": "JavaScript",
+			"level": "experienced",
+			"url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+		},
+		{
+			"name": "CSS",
+			"level": "experienced",
+			"url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+		},
+		{
+			"name": "HTML",
+			"level": "experienced",
+			"url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+		},
+		{
+			"name": "Vue",
+			"level": "foundational",
+			"url": "https://vuejs.org/"
+		},
+		{
+			"name": "Astro",
+			"level": "foundational",
+			"url": "https://astro.build/"
+		}
+	]
+}

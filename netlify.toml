@@ -1,0 +1,12 @@
+[build]
+command = "pnpm run build"
+publish = "dist"
+
+[[headers]]
+for = "/*"
+[headers.values]
+referrer-policy = "no-referrer"
+permissions-policy = ""
+x-frame-options = "DENY"
+x-content-type-options = "nosniff"
+access-control-allow-origin = "*"
