@@ -10,3 +10,9 @@ permissions-policy = ""
 x-frame-options = "DENY"
 x-content-type-options = "nosniff"
 access-control-allow-origin = "*"
+
+[[redirects]]
+from = "/"
+to = "/index.json"
+status = 200
+force = true
