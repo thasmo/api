@@ -4,3 +4,5 @@ eyedea
 connetation
 gsap
 symfony
+packmule
+turborepo
