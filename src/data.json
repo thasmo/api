@@ -1,6 +1,7 @@
 {
 	"contact": {
 		"name": "Thomas Deinhamer",
+		"role": "Frontend Engineer",
 		"email": "hi@thasmo.com",
 		"website": "https://thasmo.com/",
 		"photo": "https://avatar.thasmo.com/",
@@ -9,6 +10,28 @@
 			"country": "Austria"
 		}
 	},
+	"profiles": [
+		{
+			"name": "GitHub",
+			"url": "https://github.com/thasmo/"
+		},
+		{
+			"name": "XING",
+			"url": "https://www.xing.com/profile/Thomas_Deinhamer/"
+		},
+		{
+			"name": "LinkedIn",
+			"url": "https://www.linkedin.com/in/thasmo/"
+		},
+		{
+			"name": "Bluesky",
+			"url": "https://bsky.app/profile/thasmo.com"
+		},
+		{
+			"name": "Stack Overflow",
+			"url": "https://stackoverflow.com/users/455988/thasmo"
+		}
+	],
 	"languages": [
 		{
 			"name": "German",
@@ -26,9 +49,10 @@
 		"technology",
 		"coffee",
 		"internet",
-		"gaming"
+		"gaming",
+		"nature"
 	],
-	"experiences": [
+	"teams": [
 		{
 			"company": "DBG Digital Brands Group GmbH",
 			"url": "https://www.dbg-digital.com/",
@@ -101,132 +125,245 @@
 			]
 		}
 	],
-	"projects": [],
-	"skills": [
+	"projects": [
+		{
+			"name": "Personal Website",
+			"url": "https://thasmo.com/",
+			"start": "2014-12",
+			"technologies": [
+				"Astro",
+				"UnoCSS",
+				"Netlify",
+				"HTML",
+				"CSS",
+				"TypeScript"
+			]
+		},
+		{
+			"name": "Media Processing Extension for TYPO3",
+			"description": "TYPO3 extension for integrating various image processing libraries and SaaS cloud services.",
+			"url": "https://github.com/somehow-digital/typo3-media-processing",
+			"start": "2023-05",
+			"technologies": ["TYPO3", "Symfony", "PHP", "Composer"]
+		},
+		{
+			"name": "Spellcheck Plugin for Commitlint",
+			"description": "Commitlint plugin for spellchecking commit messages using cspell.",
+			"url": "https://github.com/somehow-digital/commitlint-plugin-spellcheck",
+			"start": "2024-05",
+			"technologies": ["commitlint", "cspell", "JavaScript"]
+		},
+		{
+			"name": "packmule",
+			"description": "Plugin-based configuration generator for webpack.",
+			"url": "https://github.com/packmule/packmule",
+			"start": "2018-03",
+			"end": "2023-04",
+			"technologies": [
+				"Webpack",
+				"TypeScript",
+				"JavaScript",
+				"lerna",
+				"turborepo"
+			]
+		}
+	],
+	"technologies": [
 		{
 			"name": "Git",
-			"level": "experienced",
+			"level": 3,
 			"url": "https://git-scm.com/"
 		},
 		{
 			"name": "OpenAI",
-			"level": "foundational",
+			"level": 1,
 			"url": "https://openai.com/"
 		},
 		{
+			"name": "REST",
+			"level": 3,
+			"url": "https://en.wikipedia.org/wiki/REST"
+		},
+		{
 			"name": "Pinecone",
-			"level": "foundational",
+			"level": 1,
 			"url": "https://www.pinecone.io/"
 		},
 		{
 			"name": "Next.js",
-			"level": "foundational",
+			"level": 1,
 			"url": "https://nextjs.org/"
 		},
 		{
-			"name": "unocss",
-			"level": "proficient",
+			"name": "UnoCSS",
+			"level": 2,
 			"url": "https://unocss.dev/"
 		},
 		{
 			"name": "Tailwind",
-			"level": "proficient",
+			"level": 2,
 			"url": "https://tailwindcss.com/"
 		},
 		{
 			"name": "ESLint",
-			"level": "proficient",
+			"level": 2,
 			"url": "https://eslint.org/"
 		},
 		{
 			"name": "Jest",
-			"level": "proficient",
+			"level": 2,
 			"url": "https://jestjs.io/"
 		},
 		{
 			"name": "Webpack",
-			"level": "proficient",
+			"level": 2,
 			"url": "https://webpack.js.org/"
 		},
 		{
 			"name": "GraphQL",
-			"level": "proficient",
+			"level": 2,
 			"url": "https://graphql.org/"
 		},
 		{
 			"name": "XML",
-			"level": "experienced",
+			"level": 3,
 			"url": "https://www.w3schools.com/xml/"
 		},
 		{
 			"name": "Angular",
-			"level": "foundational",
+			"level": 1,
 			"url": "https://angular.io/"
 		},
 		{
 			"name": "GSAP",
-			"level": "experienced",
+			"level": 3,
 			"url": "https://gsap.com/"
 		},
 		{
 			"name": "Symfony",
-			"level": "proficient",
+			"level": 2,
 			"url": "https://symfony.com/"
 		},
 		{
 			"name": "Docker",
-			"level": "proficient",
+			"level": 2,
 			"url": "https://www.docker.com/"
 		},
 		{
 			"name": "PHP",
-			"level": "experienced",
+			"level": 3,
 			"url": "https://www.php.net/"
 		},
 		{
 			"name": "SQL",
-			"level": "proficient",
+			"level": 2,
 			"url": "https://www.w3schools.com/sql/"
 		},
 		{
 			"name": "TYPO3",
-			"level": "experienced",
+			"level": 3,
 			"url": "https://typo3.org/"
 		},
 		{
 			"name": "React",
-			"level": "proficient",
+			"level": 2,
 			"url": "https://react.dev/"
 		},
 		{
 			"name": "TypeScript",
-			"level": "experienced",
+			"level": 3,
 			"url": "https://www.typescriptlang.org/"
 		},
 		{
 			"name": "JavaScript",
-			"level": "experienced",
+			"level": 3,
 			"url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
 		},
 		{
 			"name": "CSS",
-			"level": "experienced",
+			"level": 3,
 			"url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
 		},
 		{
 			"name": "HTML",
-			"level": "experienced",
+			"level": 3,
 			"url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
 		},
 		{
 			"name": "Vue",
-			"level": "foundational",
+			"level": 1,
 			"url": "https://vuejs.org/"
 		},
 		{
 			"name": "Astro",
-			"level": "foundational",
+			"level": 1,
 			"url": "https://astro.build/"
+		},
+		{
+			"name": "Netlify",
+			"level": 1,
+			"url": "https://www.netlify.com/"
+		},
+		{
+			"name": "Cloudflare",
+			"level": 1,
+			"url": "https://www.cloudflare.com/"
+		},
+		{
+			"name": "Nuxt",
+			"level": 1,
+			"url": "https://nuxt.com/"
+		},
+		{
+			"name": "JSON",
+			"level": 3,
+			"url": "https://www.json.org/"
+		},
+		{
+			"name": "Windows",
+			"level": 3,
+			"url": "https://en.wikipedia.org/wiki/Microsoft_Windows"
+		},
+		{
+			"name": "macOS",
+			"level": 2,
+			"url": "https://en.wikipedia.org/wiki/MacOS"
+		},
+		{
+			"name": "Linux",
+			"level": 3,
+			"url": "https://en.wikipedia.org/wiki/Linux"
+		},
+		{
+			"name": "Composer",
+			"level": 2,
+			"url": "https://getcomposer.org/"
 		}
+	],
+	"skills": [
+		"learning",
+		"accuracy",
+		"independence",
+		"self-reflection",
+		"adaptability",
+		"teamwork",
+		"critical thinking",
+		"analytical thinking",
+		"conscientiousness",
+		"knowledge transfer",
+		"active listening",
+		"persuasiveness",
+		"responsibility",
+		"process optimization",
+		"goal orientation",
+		"strategic approach"
+	],
+	"values": [
+		"fairness",
+		"honesty",
+		"authenticity",
+		"helpfulness",
+		"openness",
+		"appreciation"
 	]
 }
