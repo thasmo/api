@@ -42,16 +42,7 @@
 			"level": "fluent"
 		}
 	],
-	"interests": [
-		"music",
-		"food",
-		"movies",
-		"technology",
-		"coffee",
-		"internet",
-		"gaming",
-		"nature"
-	],
+	"interests": ["music", "food", "movies", "technology", "coffee", "internet", "gaming", "nature"],
 	"teams": [
 		{
 			"company": "DBG Digital Brands Group GmbH",
@@ -130,14 +121,7 @@
 			"name": "Personal Website",
 			"url": "https://thasmo.com/",
 			"start": "2014-12",
-			"technologies": [
-				"Astro",
-				"UnoCSS",
-				"Netlify",
-				"HTML",
-				"CSS",
-				"TypeScript"
-			]
+			"technologies": ["Astro", "UnoCSS", "Netlify", "HTML", "CSS", "TypeScript"]
 		},
 		{
 			"name": "Media Processing Extension for TYPO3",
@@ -159,13 +143,7 @@
 			"url": "https://github.com/packmule/packmule",
 			"start": "2018-03",
 			"end": "2023-04",
-			"technologies": [
-				"Webpack",
-				"TypeScript",
-				"JavaScript",
-				"lerna",
-				"turborepo"
-			]
+			"technologies": ["Webpack", "TypeScript", "JavaScript", "lerna", "turborepo"]
 		}
 	],
 	"technologies": [
@@ -358,12 +336,5 @@
 		"goal orientation",
 		"strategic approach"
 	],
-	"values": [
-		"fairness",
-		"honesty",
-		"authenticity",
-		"helpfulness",
-		"openness",
-		"appreciation"
-	]
+	"values": ["fairness", "honesty", "authenticity", "helpfulness", "openness", "appreciation"]
 }
