@@ -10,7 +10,7 @@ importers:
     dependencies:
       '@dotenvx/dotenvx':
         specifier: ^1.36.0
-        version: 1.44.2
+        version: 1.45.1
       astro:
         specifier: ^5.3.0
         version: 5.10.0(@types/node@24.0.3)(jiti@2.4.2)(rollup@4.44.0)(typescript@5.8.3)(yaml@2.8.0)
@@ -440,8 +440,8 @@ packages:
     resolution: {integrity: sha512-/RL/QTcaFBr0UGl6uLc9d2kPCEpqWHmBs8uFRnBottJ3I5tMOiaVtkEKFTx5FIxrlWTjZwW3rWaIUspNX5ejUw==}
     engines: {node: '>=20'}
 
-  '@dotenvx/dotenvx@1.44.2':
-    resolution: {integrity: sha512-2C44+G2dch4cB6zw7+oGQ9VcFQuuVhc5xOzfVvY7iUEj2PRhiVMIB6SpNMK1V5TvpdqrAqCYFjclK18Mh9vwNQ==}
+  '@dotenvx/dotenvx@1.45.1':
+    resolution: {integrity: sha512-wKHPD+/NMMJVBPg3i98uD9jsURDy+Ck6RQRiWf39TlOAzC+Ge1FkmDk3sgeljYZxA3qF6E7SJmvRqC70XQuuVA==}
     hasBin: true
 
   '@ecies/ciphers@0.2.3':
@@ -3727,7 +3727,7 @@ snapshots:
 
   '@cspell/url@9.1.1': {}
 
-  '@dotenvx/dotenvx@1.44.2':
+  '@dotenvx/dotenvx@1.45.1':
     dependencies:
       commander: 11.1.0
       dotenv: 16.5.0
