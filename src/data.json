@@ -1,8 +1,11 @@
 {
 	"contact": {
-		"name": "Thomas Deinhamer",
+		"name": {
+			"first": "Thomas",
+			"last": "Deinhamer"
+		},
 		"role": "Frontend Engineer",
-		"email": "hi@thasmo.com",
+		"email": "hello@thasmo.com",
 		"website": "https://thasmo.com/",
 		"photo": "https://avatar.thasmo.com/",
 		"location": {
@@ -43,7 +46,7 @@
 		}
 	],
 	"interests": ["music", "food", "movies", "technology", "coffee", "internet", "gaming", "nature"],
-	"teams": [
+	"experiences": [
 		{
 			"company": "DBG Digital Brands Group GmbH",
 			"url": "https://www.dbg-digital.com/",
@@ -121,7 +124,13 @@
 			"name": "Personal Website",
 			"url": "https://thasmo.com/",
 			"start": "2014-12",
-			"technologies": ["Astro", "UnoCSS", "Netlify", "HTML", "CSS", "TypeScript"]
+			"technologies": ["Qwik", "UnoCSS", "Netlify", "HTML", "CSS", "TypeScript"]
+		},
+		{
+			"name": "Personal Resume",
+			"url": "https://resume.thasmo.com/",
+			"start": "2025-01",
+			"technologies": ["Astro", "Vue", "UnoCSS", "Netlify", "HTML", "CSS", "TypeScript"]
 		},
 		{
 			"name": "Media Processing Extension for TYPO3",
@@ -316,6 +325,11 @@
 			"name": "Composer",
 			"level": 2,
 			"url": "https://getcomposer.org/"
+		},
+		{
+			"name": "Qwik",
+			"level": 1,
+			"url": "https://qwik.dev/"
 		}
 	],
 	"skills": [
