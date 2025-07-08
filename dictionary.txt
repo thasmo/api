@@ -6,3 +6,4 @@ gsap
 symfony
 packmule
 turborepo
+imgproxy

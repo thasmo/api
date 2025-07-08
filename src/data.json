@@ -140,11 +140,39 @@
 			"technologies": ["TYPO3", "Symfony", "PHP", "Composer"]
 		},
 		{
+			"name": "imgproxy URL Builder",
+			"description": "PHP library for generating imgproxy URLs in a type-safe, immutable, and composable way.",
+			"url": "https://github.com/somehow-digital/php-imgproxy",
+			"start": "2025-05",
+			"technologies": ["PHP", "Composer"]
+		},
+		{
 			"name": "Spellcheck Plugin for Commitlint",
 			"description": "Commitlint plugin for spellchecking commit messages using cspell.",
 			"url": "https://github.com/somehow-digital/commitlint-plugin-spellcheck",
 			"start": "2024-05",
 			"technologies": ["commitlint", "cspell", "JavaScript"]
+		},
+		{
+			"name": "Weather Application",
+			"description": "Plugin-based configuration generator for webpack.",
+			"url": "https://weather.thasmo.dev/",
+			"start": "2025-06",
+			"technologies": ["Vue", "UnoCSS", "Vite", "Netlify", "HTML", "CSS", "TypeScript"]
+		},
+		{
+			"name": "Vue Project Template",
+			"description": "Vue project template for personal projects.",
+			"url": "https://github.com/somehow-digital/vue-template",
+			"start": "2025-06",
+			"technologies": ["Vue", "UnoCSS", "Vite", "HTML", "CSS", "TypeScript"]
+		},
+		{
+			"name": "Astro Project Template",
+			"description": "Astro project template for personal projects.",
+			"url": "https://github.com/somehow-digital/astro-template",
+			"start": "2025-02",
+			"technologies": ["Astro", "UnoCSS", "HTML", "CSS", "TypeScript"]
 		},
 		{
 			"name": "packmule",
@@ -333,7 +361,7 @@
 		}
 	],
 	"skills": [
-		"learning",
+		"constant learning",
 		"accuracy",
 		"independence",
 		"self-reflection",
