@@ -10,7 +10,7 @@
 		"photo": "https://avatar.thasmo.com/",
 		"location": {
 			"city": "Salzburg",
-			"country": "Austria"
+			"country": "Österreich"
 		}
 	},
 	"profiles": [
@@ -37,22 +37,22 @@
 	],
 	"languages": [
 		{
-			"name": "German",
-			"level": "native"
+			"name": "Deutsch",
+			"level": "Muttersprache"
 		},
 		{
-			"name": "English",
-			"level": "fluent"
+			"name": "Englisch",
+			"level": "fließend"
 		}
 	],
-	"interests": ["music", "food", "movies", "technology", "coffee", "internet", "gaming", "nature"],
+	"interests": ["Musik", "Essen", "Filme", "Technologie", "Kaffee", "Internet", "Gaming", "Natur"],
 	"experiences": [
 		{
 			"company": "DBG Digital Brands Group GmbH",
 			"url": "https://www.dbg-digital.com/",
 			"positions": [
 				{
-					"name": "Senior Frontend Developer",
+					"name": "Senior Frontend Entwickler",
 					"start": "2023-10",
 					"end": "2024-12"
 				}
@@ -63,12 +63,12 @@
 			"url": "https://www.pixelart-agency.com/",
 			"positions": [
 				{
-					"name": "Senior Web Developer",
+					"name": "Senior Web Entwickler",
 					"start": "2018-01",
 					"end": "2023-09"
 				},
 				{
-					"name": "Web Developer",
+					"name": "Web Entwickler",
 					"start": "2015-08",
 					"end": "2017-12"
 				}
@@ -79,7 +79,7 @@
 			"url": "https://www.agentur-loop.com/",
 			"positions": [
 				{
-					"name": "Web Developer",
+					"name": "Web Entwickler",
 					"start": "2012-11",
 					"end": "2015-06"
 				}
@@ -90,7 +90,7 @@
 			"url": "https://www.eyedea.at/",
 			"positions": [
 				{
-					"name": "Web Developer",
+					"name": "Web Entwickler",
 					"start": "2009-07",
 					"end": "2012-10"
 				}
@@ -101,7 +101,7 @@
 			"url": "https://www.connetation.at/",
 			"positions": [
 				{
-					"name": "Web Developer",
+					"name": "Web Entwickler",
 					"start": "2007-10",
 					"end": "2009-06"
 				}
@@ -112,7 +112,7 @@
 			"url": "https://www.ncm.at/",
 			"positions": [
 				{
-					"name": "Web Developer",
+					"name": "Web Entwickler",
 					"start": "2007-03",
 					"end": "2007-09"
 				}
@@ -121,62 +121,64 @@
 	],
 	"projects": [
 		{
-			"name": "Personal Website",
+			"name": "Persönliche Website",
+			"description": "Persönliche Website, entwickelt mit Qwik und UnoCSS.",
 			"url": "https://thasmo.com/",
 			"start": "2014-12",
 			"technologies": ["Qwik", "UnoCSS", "Netlify", "HTML", "CSS", "TypeScript"]
 		},
 		{
-			"name": "Personal Resume",
+			"name": "Persönliche Resume",
+			"description": "Persönlicher Lebenslauf, entwickelt mit Astro UnoCSS.",
 			"url": "https://resume.thasmo.com/",
 			"start": "2025-01",
-			"technologies": ["Astro", "Vue", "UnoCSS", "Netlify", "HTML", "CSS", "TypeScript"]
+			"technologies": ["Astro", "UnoCSS", "Netlify", "HTML", "CSS", "TypeScript"]
 		},
 		{
-			"name": "Media Processing Extension for TYPO3",
-			"description": "TYPO3 extension for integrating various image processing libraries and SaaS cloud services.",
+			"name": "Media Processing Extension für TYPO3",
+			"description": "TYPO3 Extension zur Integration verschiedener Bildverarbeitungsbibliotheken und SaaS-Cloud-Dienste.",
 			"url": "https://github.com/somehow-digital/typo3-media-processing",
 			"start": "2023-05",
 			"technologies": ["TYPO3", "Symfony", "PHP", "Composer"]
 		},
 		{
 			"name": "imgproxy URL Builder",
-			"description": "PHP library for generating imgproxy URLs in a type-safe, immutable, and composable way.",
+			"description": "PHP-Bibliothek zum Generieren von Imgproxy-URLs auf typsichere, unveränderliche und flexible Weise.",
 			"url": "https://github.com/somehow-digital/php-imgproxy",
 			"start": "2025-05",
 			"technologies": ["PHP", "Composer"]
 		},
 		{
-			"name": "Spellcheck Plugin for Commitlint",
-			"description": "Commitlint plugin for spellchecking commit messages using cspell.",
+			"name": "Spellcheck Plugin für Commitlint",
+			"description": "Commitlint Plugin zur Rechtschreibprüfung von Commit-Messages mit cspell.",
 			"url": "https://github.com/somehow-digital/commitlint-plugin-spellcheck",
 			"start": "2024-05",
 			"technologies": ["commitlint", "cspell", "JavaScript"]
 		},
 		{
-			"name": "Weather Application",
-			"description": "Plugin-based configuration generator for webpack.",
+			"name": "Wetter Applikation",
+			"description": "Responsive Wetteranwendung, erstellt mit Vue und der Open-Meteo-API.",
 			"url": "https://weather.thasmo.dev/",
 			"start": "2025-06",
 			"technologies": ["Vue", "UnoCSS", "Vite", "Netlify", "HTML", "CSS", "TypeScript"]
 		},
 		{
-			"name": "Vue Project Template",
-			"description": "Vue project template for personal projects.",
+			"name": "Vue Projektvorlage",
+			"description": "Vue Projektvorlage für persönliche Projekte.",
 			"url": "https://github.com/somehow-digital/vue-template",
 			"start": "2025-06",
 			"technologies": ["Vue", "UnoCSS", "Vite", "HTML", "CSS", "TypeScript"]
 		},
 		{
-			"name": "Astro Project Template",
-			"description": "Astro project template for personal projects.",
+			"name": "Astro Projektvorlage",
+			"description": "Astro Projektvorlage für persönliche Projekte.",
 			"url": "https://github.com/somehow-digital/astro-template",
 			"start": "2025-02",
 			"technologies": ["Astro", "UnoCSS", "HTML", "CSS", "TypeScript"]
 		},
 		{
 			"name": "packmule",
-			"description": "Plugin-based configuration generator for webpack.",
+			"description": "Plugin-basierter Konfigurationsgenerator für Webpack.",
 			"url": "https://github.com/packmule/packmule",
 			"start": "2018-03",
 			"end": "2023-04",
@@ -361,22 +363,22 @@
 		}
 	],
 	"skills": [
-		"constant learning",
-		"accuracy",
-		"independence",
-		"self-reflection",
-		"adaptability",
-		"teamwork",
-		"critical thinking",
-		"analytical thinking",
-		"conscientiousness",
-		"knowledge transfer",
-		"active listening",
-		"persuasiveness",
-		"responsibility",
-		"process optimization",
-		"goal orientation",
-		"strategic approach"
+		"Konstantes Lernen",
+		"Genauigkeit",
+		"Unabhängigkeit",
+		"Selbstreflexion",
+		"Anpassungsfähigkeit",
+		"Teamarbeit",
+		"Kritisches Denken",
+		"Analytisches Denken",
+		"Gewissenhaftigkeit",
+		"Wissenstransfer",
+		"Aktives Zuhören",
+		"Überzeugungskraft",
+		"Verantwortung",
+		"Prozessoptimierung",
+		"Zielorientierung",
+		"Strategisches Vorgehen"
 	],
-	"values": ["fairness", "honesty", "authenticity", "helpfulness", "openness", "appreciation"]
+	"values": ["Fairness", "Ehrlichkeit", "Authentizität", "Hilfsbereitschaft", "Offenheit", "Wertschätzung"]
 }

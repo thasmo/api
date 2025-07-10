@@ -7,3 +7,4 @@ symfony
 packmule
 turborepo
 imgproxy
+meteo

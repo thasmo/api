@@ -12,7 +12,13 @@ x-content-type-options = "nosniff"
 access-control-allow-origin = "*"
 
 [[redirects]]
-from = "/"
-to = "/index.json"
+from = "/en/"
+to = "/en/index.json"
+status = 200
+force = true
+
+[[redirects]]
+from = "/de/"
+to = "/de/index.json"
 status = 200
 force = true
