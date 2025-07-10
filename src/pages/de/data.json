@@ -122,14 +122,12 @@
 	"projects": [
 		{
 			"name": "Persönliche Website",
-			"description": "Persönliche Website, entwickelt mit Qwik und UnoCSS.",
 			"url": "https://thasmo.com/",
 			"start": "2014-12",
 			"technologies": ["Qwik", "UnoCSS", "Netlify", "HTML", "CSS", "TypeScript"]
 		},
 		{
-			"name": "Persönliche Resume",
-			"description": "Persönlicher Lebenslauf, entwickelt mit Astro UnoCSS.",
+			"name": "Persönlicher Lebenslauf",
 			"url": "https://resume.thasmo.com/",
 			"start": "2025-01",
 			"technologies": ["Astro", "UnoCSS", "Netlify", "HTML", "CSS", "TypeScript"]
