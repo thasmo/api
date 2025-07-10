@@ -8,11 +8,14 @@ export default defineConfig({
 	i18n: {
 		defaultLocale: 'en',
 		locales: ['en', 'de'],
-		routing: {
-			prefixDefaultLocale: true,
-		},
 	},
 	output: 'static',
+	redirects: {
+		'/': {
+			destination: '/en/',
+			status: 301,
+		},
+	},
 	site: process.env.APPLICATION_SITE,
 	trailingSlash: 'always',
 });
