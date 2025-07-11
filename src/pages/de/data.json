@@ -15,24 +15,24 @@
 	},
 	"profiles": [
 		{
-			"name": "GitHub",
-			"url": "https://github.com/thasmo/"
+			"name": "LinkedIn",
+			"url": "https://www.linkedin.com/in/thasmo/"
 		},
 		{
 			"name": "XING",
 			"url": "https://www.xing.com/profile/Thomas_Deinhamer/"
 		},
 		{
-			"name": "LinkedIn",
-			"url": "https://www.linkedin.com/in/thasmo/"
-		},
-		{
-			"name": "Bluesky",
-			"url": "https://bsky.app/profile/thasmo.com"
+			"name": "GitHub",
+			"url": "https://github.com/thasmo/"
 		},
 		{
 			"name": "Stack Overflow",
 			"url": "https://stackoverflow.com/users/455988/thasmo"
+		},
+		{
+			"name": "Bluesky",
+			"url": "https://bsky.app/profile/thasmo.com"
 		}
 	],
 	"languages": [
@@ -50,17 +50,23 @@
 		{
 			"company": "DBG Digital Brands Group GmbH",
 			"url": "https://www.dbg-digital.com/",
+			"technologies": ["React", "GraphQL", "TypeScript", "Vector Database", "OpenAI API", "Shopify Plugin"],
 			"positions": [
 				{
 					"name": "Senior Frontend Entwickler",
 					"start": "2023-10",
 					"end": "2024-12"
 				}
+			],
+			"tasks": [
+				"Entwicklung einer umfangreichen Single Page Application (SPA) auf Basis von React und Material UI in Zusammenarbeit mit einem internationalen Team von über 100 Personen.",
+				"Konzeption und Entwicklung eines auf ChatGPT (AI Chat Framework) und Pinecone (Vektor Datenbank) basierenden RAG (Retrieval Augmented Generation) Chatbots inklusive Anbindung als Shopify Plugin."
 			]
 		},
 		{
 			"company": "pixelart GmbH",
 			"url": "https://www.pixelart-agency.com/",
+			"technologies": ["Webpack", "TypeScript", "Sass", "HTML", "Webflow", "TYPO3", "PHP"],
 			"positions": [
 				{
 					"name": "Senior Web Entwickler",
@@ -72,22 +78,37 @@
 					"start": "2015-08",
 					"end": "2017-12"
 				}
+			],
+			"tasks": [
+				"Interdisziplinäre, teamübergreifende Zusammenarbeit mit Kollegen und Kunden zur Entwicklung maßgeschneiderter web-basierter Lösungen unter Einbringung technischer Expertise.",
+				"Entwicklung und Optimierung einer auf Webflow (Website-Builder) basierenden Produkt-Website für einen Kunden aus der Küchenzulieferer-Industrie.",
+				"Umsetzung und Optimierung von modernen Website-Frontends basierend auf Web-Technologien (HTML, JS, CSS) unter Anwendung moderner Development und Build Tools.",
+				"Entwicklung und Optimierung von Corporate und Product Websites basierend auf TYPO3 (CMS) für Kunden im deutschsprachigen Raum.",
+				"Konzeption und Entwicklung eines auf einer Plugin-Architektur basierenden Webpack-Frameworks für die agenturweite Anwendung von Entwicklungs- und Qualitäts-Standards."
 			]
 		},
 		{
 			"company": "LOOP New Media GmbH",
 			"url": "https://www.agentur-loop.com/",
+			"technologies": ["HTML", "CSS", "JavaScript", "PHP", "jQuery"],
 			"positions": [
 				{
 					"name": "Web Entwickler",
 					"start": "2012-11",
 					"end": "2015-06"
 				}
+			],
+			"tasks": [
+				"Entwicklung und Optimierung von Corporate und Product Websites basierend auf einer proprietären CMS-Applikation für internationale Kunden.",
+				"Entwicklung und Optimierung von web-basierten Social Media Applikationen.",
+				"Umsetzung, Optimierung und Erweiterung von modernen Website-Frontends basierend auf Web-Technologien (HTML, JS, CSS) unter Anwendung moderner Tools.",
+				"Weiterentwicklung einer Agentur-internen proprietären CMS-Applikation basierend auf PHP und Web-Standards."
 			]
 		},
 		{
 			"company": "eyedea Werbe GmbH",
 			"url": "https://www.eyedea.at/",
+			"technologies": ["HTML", "CSS", "JavaScript", "TYPO3", "PHP", "jQuery"],
 			"positions": [
 				{
 					"name": "Web Entwickler",
@@ -99,6 +120,7 @@
 		{
 			"company": "Connetation Web Engineering GmbH",
 			"url": "https://www.connetation.at/",
+			"technologies": ["HTML", "CSS", "JavaScript", "TYPO3", "PHP", "jQuery"],
 			"positions": [
 				{
 					"name": "Web Entwickler",
@@ -110,6 +132,7 @@
 		{
 			"company": "ncm - Net Communication Management GmbH",
 			"url": "https://www.ncm.at/",
+			"technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
 			"positions": [
 				{
 					"name": "Web Entwickler",

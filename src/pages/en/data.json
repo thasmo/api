@@ -15,24 +15,24 @@
 	},
 	"profiles": [
 		{
-			"name": "GitHub",
-			"url": "https://github.com/thasmo/"
+			"name": "LinkedIn",
+			"url": "https://www.linkedin.com/in/thasmo/"
 		},
 		{
 			"name": "XING",
 			"url": "https://www.xing.com/profile/Thomas_Deinhamer/"
 		},
 		{
-			"name": "LinkedIn",
-			"url": "https://www.linkedin.com/in/thasmo/"
-		},
-		{
-			"name": "Bluesky",
-			"url": "https://bsky.app/profile/thasmo.com"
+			"name": "GitHub",
+			"url": "https://github.com/thasmo/"
 		},
 		{
 			"name": "Stack Overflow",
 			"url": "https://stackoverflow.com/users/455988/thasmo"
+		},
+		{
+			"name": "Bluesky",
+			"url": "https://bsky.app/profile/thasmo.com"
 		}
 	],
 	"languages": [
@@ -50,17 +50,23 @@
 		{
 			"company": "DBG Digital Brands Group GmbH",
 			"url": "https://www.dbg-digital.com/",
+			"technologies": ["React", "GraphQL", "TypeScript", "Vector Database", "OpenAI API", "Shopify Plugin"],
 			"positions": [
 				{
 					"name": "Senior Frontend Developer",
 					"start": "2023-10",
 					"end": "2024-12"
 				}
+			],
+			"tasks": [
+				"Development of a large-scale Single Page Application (SPA) based on React and Material UI in collaboration with an international team of over 100 people.",
+				"Design and development of a RAG (Retrieval Augmented Generation) chatbot based on ChatGPT (AI Chat Framework) and Pinecone (vector database), including integration as a Shopify plugin."
 			]
 		},
 		{
 			"company": "pixelart GmbH",
 			"url": "https://www.pixelart-agency.com/",
+			"technologies": ["Webpack", "TypeScript", "Sass", "HTML", "Webflow", "TYPO3", "PHP"],
 			"positions": [
 				{
 					"name": "Senior Web Developer",
@@ -72,22 +78,37 @@
 					"start": "2015-08",
 					"end": "2017-12"
 				}
+			],
+			"tasks": [
+				"Interdisciplinary, cross-team collaboration with colleagues and clients to develop customized web-based solutions by contributing technical expertise.",
+				"Development and optimization of a product website based on Webflow (website builder) for a client in the kitchen supply industry.",
+				"Implementation and optimization of modern website frontends based on web technologies (HTML, JS, CSS) using modern development and build tools.",
+				"Development and optimization of corporate and product websites based on TYPO3 (CMS) for clients in the German-speaking region.",
+				"Design and development of a Webpack framework based on a plugin architecture for agency-wide application of development and quality standards."
 			]
 		},
 		{
 			"company": "LOOP New Media GmbH",
 			"url": "https://www.agentur-loop.com/",
+			"technologies": ["HTML", "CSS", "JavaScript", "PHP", "jQuery"],
 			"positions": [
 				{
 					"name": "Web Developer",
 					"start": "2012-11",
 					"end": "2015-06"
 				}
+			],
+			"tasks": [
+				"Development and optimization of corporate and product websites based on a proprietary CMS application for international clients.",
+				"Development and optimization of web-based social media applications.",
+				"Implementation, optimization, and extension of modern website frontends based on web technologies (HTML, JS, CSS) using modern tools.",
+				"Continued development of an internal proprietary CMS application based on PHP and web standards."
 			]
 		},
 		{
 			"company": "eyedea Werbe GmbH",
 			"url": "https://www.eyedea.at/",
+			"technologies": ["HTML", "CSS", "JavaScript", "TYPO3", "PHP", "jQuery"],
 			"positions": [
 				{
 					"name": "Web Developer",
@@ -99,6 +120,7 @@
 		{
 			"company": "Connetation Web Engineering GmbH",
 			"url": "https://www.connetation.at/",
+			"technologies": ["HTML", "CSS", "JavaScript", "TYPO3", "PHP", "jQuery"],
 			"positions": [
 				{
 					"name": "Web Developer",
@@ -110,6 +132,7 @@
 		{
 			"company": "ncm - Net Communication Management GmbH",
 			"url": "https://www.ncm.at/",
+			"technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
 			"positions": [
 				{
 					"name": "Web Developer",
