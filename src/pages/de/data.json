@@ -184,15 +184,22 @@
 			"technologies": ["Vue", "UnoCSS", "Vite", "Netlify", "HTML", "CSS", "TypeScript"]
 		},
 		{
-			"name": "Vue Projektvorlage",
-			"description": "Vue Projektvorlage für persönliche Projekte.",
+			"name": "React Vorlage",
+			"description": "React Vorlage für persönliche Projekte.",
+			"url": "https://github.com/somehow-digital/react-template",
+			"start": "2025-07",
+			"technologies": ["React", "UnoCSS", "Vite", "HTML", "CSS", "TypeScript"]
+		},
+		{
+			"name": "Vue Vorlage",
+			"description": "Vue Vorlage für persönliche Projekte.",
 			"url": "https://github.com/somehow-digital/vue-template",
 			"start": "2025-06",
 			"technologies": ["Vue", "UnoCSS", "Vite", "HTML", "CSS", "TypeScript"]
 		},
 		{
-			"name": "Astro Projektvorlage",
-			"description": "Astro Projektvorlage für persönliche Projekte.",
+			"name": "Astro Vorlage",
+			"description": "Astro Vorlage für persönliche Projekte.",
 			"url": "https://github.com/somehow-digital/astro-template",
 			"start": "2025-02",
 			"technologies": ["Astro", "UnoCSS", "HTML", "CSS", "TypeScript"]
