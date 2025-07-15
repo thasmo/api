@@ -22,3 +22,6 @@ from = "/de/"
 to = "/de/index.json"
 status = 200
 force = true
+
+[[context.production.plugins]]
+package = "@somehow-digital/netlify-plugin-notifications"

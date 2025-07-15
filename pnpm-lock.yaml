@@ -27,6 +27,9 @@ importers:
       '@somehow-digital/eslint-config':
         specifier: ^3.0.0
         version: 3.0.3(eslint@9.31.0(jiti@2.4.2))(prettier@3.6.2)(typescript@5.8.3)
+      '@somehow-digital/netlify-plugin-notifications':
+        specifier: ^1.1.0
+        version: 1.1.0
       '@somehow-digital/prettier-config':
         specifier: ^3.0.0
         version: 3.0.0(prettier@3.6.2)
@@ -1065,6 +1068,10 @@ packages:
       eslint: ^9.3.0
       prettier: ^3.2.0
       typescript: ^5.4.0
+
+  '@somehow-digital/netlify-plugin-notifications@1.1.0':
+    resolution: {integrity: sha512-IvvhgJ4mHUtOq3BtDBljvlG1L3PuK4BtzLJ5H8YuF6Ht5eTvEmL7pYSBJROy5bzNo6eJZmQPU4YK7UvldKdYEA==}
+    engines: {node: '>=22', pnpm: '>=10'}
 
   '@somehow-digital/prettier-config@3.0.0':
     resolution: {integrity: sha512-T+bO2tmp5AwkIcYf/k/f2J/0S2jSOXDSexHJiKe27SUbWI6SlXb8fMgfq8sdOfR+KiHPtp39UwauFzGu1Skcgg==}
@@ -4233,6 +4240,8 @@ snapshots:
     transitivePeerDependencies:
       - '@types/eslint'
       - supports-color
+
+  '@somehow-digital/netlify-plugin-notifications@1.1.0': {}
 
   '@somehow-digital/prettier-config@3.0.0(prettier@3.6.2)':
     dependencies:
