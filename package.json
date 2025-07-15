@@ -9,6 +9,7 @@
 	"pnpm": {
 		"onlyBuiltDependencies": [
 			"esbuild",
+			"oxc-resolver",
 			"sharp"
 		]
 	},
