@@ -59,8 +59,8 @@
 				}
 			],
 			"tasks": [
-				"Development of a large-scale Single Page Application (SPA) based on React and Material UI in collaboration with an international team of over 100 people.",
-				"Design and development of a RAG (Retrieval Augmented Generation) chatbot based on ChatGPT (AI Chat Framework) and Pinecone (vector database), including integration as a Shopify plugin."
+				"Development of a large-scale SPA based on React and Material UI in collaboration with an international team of over 100 people.",
+				"Design and development of a RAG chatbot based on ChatGPT and Pinecone with Shopify integration."
 			]
 		},
 		{
@@ -99,10 +99,10 @@
 				}
 			],
 			"tasks": [
-				"Development and optimization of corporate and product websites based on a proprietary CMS application for international clients.",
+				"Development and optimization of corporate and product websites based on a proprietary CMS for international clients.",
 				"Development and optimization of web-based social media applications.",
 				"Implementation, optimization, and extension of modern website frontends based on web technologies (HTML, JS, CSS) using modern tools.",
-				"Continued development of an internal proprietary CMS application based on PHP and web standards."
+				"Development of an internal proprietary CMS based on PHP and web standards."
 			]
 		},
 		{
@@ -206,7 +206,7 @@
 		},
 		{
 			"name": "packmule",
-			"description": "Plugin-based configuration generator for webpack.",
+			"description": "Configuration generator for webpack.",
 			"url": "https://github.com/packmule/packmule",
 			"start": "2018-03",
 			"end": "2023-04",
@@ -341,7 +341,7 @@
 		},
 		{
 			"name": "Astro",
-			"level": 1,
+			"level": 2,
 			"url": "https://astro.build/"
 		},
 		{
@@ -392,7 +392,7 @@
 	],
 	"skills": [
 		"constant learning",
-		"accuracy",
+		"attention to detail",
 		"independence",
 		"self-reflection",
 		"adaptability",
