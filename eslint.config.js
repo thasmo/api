@@ -1,19 +1,5 @@
-import config from '@somehow-digital/eslint-config/basic';
-import astro from 'eslint-plugin-astro';
-import globals from 'globals';
+import config from '@somehow-digital/eslint-config';
 
-export default [
-	...config,
-	...astro.configs.recommended,
-	{
-		ignores: ['**/.*/', 'dist/'],
-	},
-	{
-		languageOptions: {
-			globals: {
-				...globals.browser,
-				...globals.node,
-			},
-		},
-	},
-];
+export default config({
+	astro: true,
+});
