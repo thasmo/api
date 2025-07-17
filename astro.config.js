@@ -16,6 +16,6 @@ export default defineConfig({
 			status: 301,
 		},
 	},
-	site: process.env.APPLICATION_SITE,
+	site: import.meta.env.APPLICATION_SITE,
 	trailingSlash: 'always',
 });

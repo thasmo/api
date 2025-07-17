@@ -4,6 +4,7 @@ publish = "dist"
 
 [[headers]]
 for = "/*"
+
 [headers.values]
 referrer-policy = "no-referrer"
 permissions-policy = ""
