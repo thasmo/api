@@ -50,7 +50,7 @@
 		{
 			"company": "DBG Digital Brands Group GmbH",
 			"url": "https://www.dbg-digital.com/",
-			"technologies": ["React", "GraphQL", "TypeScript", "Vector Database", "OpenAI API", "Shopify Plugin"],
+			"technologies": ["React", "GraphQL", "TypeScript", "Pinecone", "OpenAI", "Shopify"],
 			"positions": [
 				{
 					"name": "Senior Frontend Entwickler",
@@ -59,8 +59,8 @@
 				}
 			],
 			"tasks": [
-				"Entwicklung einer umfangreichen Single Page Application (SPA) auf Basis von React und Material UI in Zusammenarbeit mit einem internationalen Team von über 100 Personen.",
-				"Konzeption und Entwicklung eines auf ChatGPT (AI Chat Framework) und Pinecone (Vektor Datenbank) basierenden RAG (Retrieval Augmented Generation) Chatbots inklusive Anbindung als Shopify Plugin."
+				"Entwicklung einer umfangreichen SPA auf Basis von React und Material UI mit einem internationalen Team von über 100 Personen.",
+				"Konzeption und Entwicklung eines RAG Chatbots auf Basis von ChatGPT und Pinecone mit Shopify-Integration."
 			]
 		},
 		{
@@ -80,11 +80,11 @@
 				}
 			],
 			"tasks": [
-				"Interdisziplinäre, teamübergreifende Zusammenarbeit mit Kollegen und Kunden zur Entwicklung maßgeschneiderter web-basierter Lösungen unter Einbringung technischer Expertise.",
-				"Entwicklung und Optimierung einer auf Webflow (Website-Builder) basierenden Produkt-Website für einen Kunden aus der Küchenzulieferer-Industrie.",
-				"Umsetzung und Optimierung von modernen Website-Frontends basierend auf Web-Technologien (HTML, JS, CSS) unter Anwendung moderner Development und Build Tools.",
-				"Entwicklung und Optimierung von Corporate und Product Websites basierend auf TYPO3 (CMS) für Kunden im deutschsprachigen Raum.",
-				"Konzeption und Entwicklung eines auf einer Plugin-Architektur basierenden Webpack-Frameworks für die agenturweite Anwendung von Entwicklungs- und Qualitäts-Standards."
+				"Interdisziplinäre, teamübergreifende Zusammenarbeit mit Kollegen und Kunden zur Entwicklung individueller Lösungen unter Einbringung technischer Expertise.",
+				"Entwicklung und Optimierung einer auf Webflow basierenden Produkt Website für einen Kunden aus der Küchenzulieferer-Industrie.",
+				"Umsetzung und Optimierung von modernen Website Frontends basierend auf Web-Technologien unter Anwendung moderner Entwicklungs- und Build-Tools.",
+				"Entwicklung und Optimierung von Corporate und Product Websites basierend auf TYPO3 für Kunden im deutschsprachigen Raum.",
+				"Konzeption und Entwicklung eines Plugin-basierten Webpack-Frameworks für die agenturweite Anwendung von Entwicklungs- und Qualitäts-Standards."
 			]
 		},
 		{
@@ -99,10 +99,10 @@
 				}
 			],
 			"tasks": [
-				"Entwicklung und Optimierung von Corporate und Product Websites basierend auf einer proprietären CMS-Applikation für internationale Kunden.",
+				"Entwicklung und Optimierung von Corporate und Product Websites basierend auf eines proprietären CMS für internationale Kunden.",
 				"Entwicklung und Optimierung von web-basierten Social Media Applikationen.",
 				"Umsetzung, Optimierung und Erweiterung von modernen Website-Frontends basierend auf Web-Technologien (HTML, JS, CSS) unter Anwendung moderner Tools.",
-				"Weiterentwicklung einer Agentur-internen proprietären CMS-Applikation basierend auf PHP und Web-Standards."
+				"Entwicklung eines Agentur-internen proprietären CMS basierend auf PHP und Web-Standards."
 			]
 		},
 		{
@@ -206,7 +206,7 @@
 		},
 		{
 			"name": "packmule",
-			"description": "Plugin-basierter Konfigurationsgenerator für Webpack.",
+			"description": "Konfigurationsgenerator für Webpack.",
 			"url": "https://github.com/packmule/packmule",
 			"start": "2018-03",
 			"end": "2023-04",
@@ -392,7 +392,7 @@
 	],
 	"skills": [
 		"Konstantes Lernen",
-		"Genauigkeit",
+		"Detailgenauigkeit",
 		"Unabhängigkeit",
 		"Selbstreflexion",
 		"Anpassungsfähigkeit",
