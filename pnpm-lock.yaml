@@ -10,7 +10,7 @@ importers:
     dependencies:
       '@dotenvx/dotenvx':
         specifier: ^1.36.0
-        version: 1.50.1
+        version: 1.51.0
       astro:
         specifier: ^5.3.0
         version: 5.13.10(@types/node@24.5.2)(jiti@2.5.1)(rollup@4.52.0)(typescript@5.9.2)(yaml@2.8.1)
@@ -444,8 +444,8 @@ packages:
     resolution: {integrity: sha512-9EHCoGKtisPNsEdBQ28tKxKeBmiVS3D4j+AN8Yjr+Dmtu+YACKGWiMOddNZG2VejQNIdFx7FwzU00BGX68ELhA==}
     engines: {node: '>=20'}
 
-  '@dotenvx/dotenvx@1.50.1':
-    resolution: {integrity: sha512-0hymEluMsQwwukPcnF7IjhmgA6j2jaZtfOtFafOgeZi24BJHY1lHlqwD7dO46KF9WCfpBB3J5uAEwlgBOzAAxg==}
+  '@dotenvx/dotenvx@1.51.0':
+    resolution: {integrity: sha512-CbMGzyOYSyFF7d4uaeYwO9gpSBzLTnMmSmTVpCZjvpJFV69qYbjYPpzNnCz1mb2wIvEhjWjRwQWuBzTO0jITww==}
     hasBin: true
 
   '@dprint/formatter@0.3.0':
@@ -4153,7 +4153,7 @@ snapshots:
 
   '@cspell/url@9.2.1': {}
 
-  '@dotenvx/dotenvx@1.50.1':
+  '@dotenvx/dotenvx@1.51.0':
     dependencies:
       commander: 11.1.0
       dotenv: 17.2.2
