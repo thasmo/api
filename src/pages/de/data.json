@@ -50,6 +50,7 @@
 		{
 			"company": "DBG Digital Brands Group GmbH",
 			"url": "https://www.dbg-digital.com/",
+			"testimonial": true,
 			"technologies": ["React", "GraphQL", "TypeScript", "Pinecone", "OpenAI", "Shopify"],
 			"positions": [
 				{
@@ -66,6 +67,7 @@
 		{
 			"company": "pixelart GmbH",
 			"url": "https://www.pixelart-agency.com/",
+			"testimonial": true,
 			"technologies": ["Webpack", "TypeScript", "Sass", "HTML", "Webflow", "TYPO3", "PHP"],
 			"positions": [
 				{
