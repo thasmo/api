@@ -10,6 +10,8 @@
 		"dev": "astro dev",
 		"build": "astro build",
 		"preview": "astro preview",
+		"deploy": "wrangler deploy",
+		"upload": "wrangler versions upload",
 		"prepare": "concurrently --group --prefix-colors 'auto' 'pnpm:prepare:*'",
 		"prepare:husky": "husky",
 		"lint": "concurrently --group --prefix-colors 'auto' 'pnpm:lint:*'",
@@ -21,6 +23,7 @@
 		"fix:knip": "knip --fix --no-progress --workspace ."
 	},
 	"dependencies": {
+		"@astrojs/cloudflare": "^12.6.12",
 		"@dotenvx/dotenvx": "^1.36.0",
 		"astro": "^5.3.0"
 	},
@@ -29,19 +32,20 @@
 		"@somehow-digital/commitlint-config": "^1.0.0",
 		"@somehow-digital/cspell-dictionary": "^2.0.0",
 		"@somehow-digital/eslint-config": "^4.0.1",
-		"@somehow-digital/netlify-plugin-notifications": "^1.1.1",
 		"concurrently": "^9.0.0",
 		"cspell": "^9.0.0",
 		"eslint": "^9.8.0",
 		"husky": "^9.0.11",
 		"knip": "^5.40.0",
-		"lint-staged": "^16.0.0"
+		"lint-staged": "^16.0.0",
+		"wrangler": "^4.54.0"
 	},
 	"pnpm": {
 		"onlyBuiltDependencies": [
 			"esbuild",
 			"oxc-resolver",
-			"sharp"
+			"sharp",
+			"workerd"
 		]
 	}
 }
