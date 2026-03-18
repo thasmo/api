@@ -48,6 +48,7 @@
 	"interests": ["Musik", "Essen", "Filme", "Technologie", "Kaffee", "Internet", "Gaming", "Natur"],
 	"experiences": [
 		{
+			"name": "Fredmansky",
 			"company": "Fredmansky GmbH",
 			"url": "https://www.fredmansky.at/",
 			"technologies": ["Vue", "Craft CMS", "TypeScript", "PHP", "HTML", "Twig", "Tailwind", "Vite"],
@@ -59,6 +60,7 @@
 			]
 		},
 		{
+			"name": "Digital Brands Group",
 			"company": "DBG Digital Brands Group GmbH",
 			"url": "https://www.dbg-digital.com/",
 			"testimonial": true,
@@ -76,6 +78,7 @@
 			]
 		},
 		{
+			"name": "pixelart",
 			"company": "pixelart GmbH",
 			"url": "https://www.pixelart-agency.com/",
 			"testimonial": true,
@@ -101,6 +104,7 @@
 			]
 		},
 		{
+			"name": "LOOP",
 			"company": "LOOP New Media GmbH",
 			"url": "https://www.agentur-loop.com/",
 			"technologies": ["HTML", "CSS", "JavaScript", "PHP", "jQuery"],
@@ -119,6 +123,7 @@
 			]
 		},
 		{
+			"name": "eyedea",
 			"company": "eyedea Werbe GmbH",
 			"url": "https://www.eyedea.at/",
 			"technologies": ["HTML", "CSS", "JavaScript", "TYPO3", "PHP", "jQuery"],
@@ -131,6 +136,7 @@
 			]
 		},
 		{
+			"name": "Connetation",
 			"company": "Connetation Web Engineering GmbH",
 			"url": "https://www.connetation.at/",
 			"technologies": ["HTML", "CSS", "JavaScript", "TYPO3", "PHP", "jQuery"],
@@ -143,6 +149,7 @@
 			]
 		},
 		{
+			"name": "ncm",
 			"company": "ncm - Net Communication Management GmbH",
 			"url": "https://www.ncm.at/",
 			"technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
@@ -160,13 +167,13 @@
 			"name": "Persönliche Website",
 			"url": "https://thasmo.com/",
 			"start": "2014-12",
-			"technologies": ["Qwik", "UnoCSS", "Netlify", "HTML", "CSS", "TypeScript"]
+			"technologies": ["Astro", "UnoCSS", "Cloudflare", "HTML", "CSS", "TypeScript"]
 		},
 		{
 			"name": "Persönlicher Lebenslauf",
 			"url": "https://resume.thasmo.com/",
 			"start": "2025-01",
-			"technologies": ["Astro", "UnoCSS", "Netlify", "HTML", "CSS", "TypeScript"]
+			"technologies": ["Astro", "UnoCSS", "Cloudflare", "HTML", "CSS", "TypeScript"]
 		},
 		{
 			"name": "Media Processing Extension für TYPO3",
@@ -188,6 +195,34 @@
 			"url": "https://github.com/somehow-digital/commitlint-plugin-spellcheck",
 			"start": "2024-05",
 			"technologies": ["commitlint", "cspell", "JavaScript"]
+		},
+		{
+			"name": "Lettermint Plugin für Craft CMS",
+			"description": "Lettermint Integration für Craft CMS.",
+			"url": "https://plugins.craftcms.com/lettermint",
+			"start": "2025-12",
+			"technologies": ["Craft CMS", "PHP", "Composer", "Lettermint"]
+		},
+		{
+			"name": "imgproxy Plugin für Craft CMS",
+			"description": "imgproxy Integration für Craft CMS.",
+			"url": "https://plugins.craftcms.com/imgproxy",
+			"start": "2026-02",
+			"technologies": ["Craft CMS", "PHP", "Composer", "imgproxy"]
+		},
+		{
+			"name": "Mailpit Plugin für Craft CMS",
+			"description": "Mailpit Integration für Craft CMS.",
+			"url": "https://plugins.craftcms.com/mailpit",
+			"start": "2026-03",
+			"technologies": ["Craft CMS", "PHP", "Composer", "Mailpit"]
+		},
+		{
+			"name": "Lettermint Mailer für Symfony",
+			"description": "Lettermint Integration für Symfony.",
+			"url": "https://github.com/somehow-digital/symfony-lettermint-mailer",
+			"start": "2025-12",
+			"technologies": ["Symfony", "Lettermint", "PHP", "Composer"]
 		},
 		{
 			"name": "Wetter Applikation",
@@ -323,6 +358,11 @@
 			"url": "https://typo3.org/"
 		},
 		{
+			"name": "Craft CMS",
+			"level": 2,
+			"url": "https://craftcms.com/"
+		},
+		{
 			"name": "React",
 			"level": 2,
 			"url": "https://react.dev/"
@@ -401,6 +441,26 @@
 			"name": "Qwik",
 			"level": 1,
 			"url": "https://qwik.dev/"
+		},
+		{
+			"name": "Node",
+			"level": 2,
+			"url": "https://nodejs.org/"
+		},
+		{
+			"name": "pnpm",
+			"level": 3,
+			"url": "https://pnpm.io/"
+		},
+		{
+			"name": "npm",
+			"level": 3,
+			"url": "https://npmjs.com/"
+		},
+		{
+			"name": "knip",
+			"level": 2,
+			"url": "https://knip.dev/"
 		}
 	],
 	"skills": [
