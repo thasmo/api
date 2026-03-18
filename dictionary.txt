@@ -10,3 +10,5 @@ turborepo
 imgproxy
 meteo
 teamübergreifende
+lettermint
+mailpit
