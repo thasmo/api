@@ -12,3 +12,5 @@ meteo
 teamübergreifende
 lettermint
 mailpit
+esbuild
+workerd
