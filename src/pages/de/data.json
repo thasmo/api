@@ -52,10 +52,10 @@
 			"name": "Fredmansky",
 			"company": "Fredmansky GmbH",
 			"url": "https://www.fredmansky.at/",
-			"technologies": ["Vue", "Craft CMS", "TypeScript", "PHP", "HTML", "Twig", "Tailwind", "Vite"],
+			"technologies": ["Vue", "Craft CMS", "TypeScript", "PHP", "HTML", "Twig", "Tailwind", "Vite", "Sass", "CSS"],
 			"positions": [
 				{
-					"name": "Senior Fullstack Entwickler",
+					"name": "Senior Full-Stack Entwickler",
 					"start": "2025-09"
 				}
 			]
@@ -65,7 +65,7 @@
 			"company": "DBG Digital Brands Group GmbH",
 			"url": "https://www.dbg-digital.com/",
 			"testimonial": true,
-			"technologies": ["React", "GraphQL", "TypeScript", "Pinecone", "OpenAI", "Shopify"],
+			"technologies": ["React", "GraphQL", "TypeScript", "Vector Database", "OpenAI API", "Shopify Plugin"],
 			"positions": [
 				{
 					"name": "Senior Frontend Entwickler",
