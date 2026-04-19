@@ -17,23 +17,33 @@
 	"profiles": [
 		{
 			"name": "LinkedIn",
+			"handle": "linkedin",
 			"url": "https://www.linkedin.com/in/thasmo/"
 		},
 		{
 			"name": "XING",
+			"handle": "xing",
 			"url": "https://www.xing.com/profile/Thomas_Deinhamer/"
 		},
 		{
 			"name": "GitHub",
+			"handle": "github",
 			"url": "https://github.com/thasmo/"
 		},
 		{
 			"name": "Stack Overflow",
+			"handle": "stackoverflow",
 			"url": "https://stackoverflow.com/users/455988/thasmo"
 		},
 		{
 			"name": "Bluesky",
+			"handle": "bluesky",
 			"url": "https://bsky.app/profile/thasmo.com"
+		},
+		{
+			"name": "Website",
+			"handle": "website",
+			"url": "https://thasmo.com/"
 		}
 	],
 	"languages": [
@@ -46,7 +56,7 @@
 			"level": "fließend"
 		}
 	],
-	"interests": ["Musik", "Essen", "Filme", "Technologie", "Kaffee", "Internet", "Gaming", "Natur"],
+	"interests": ["Gemeinschaft", "Musik", "Essen", "Filme", "Technologie", "Kaffee", "Internet", "Gaming", "Natur", "Open Source"],
 	"experiences": [
 		{
 			"name": "Fredmansky",
@@ -165,18 +175,6 @@
 	],
 	"projects": [
 		{
-			"name": "Persönliche Website",
-			"url": "https://thasmo.com/",
-			"start": "2014-12",
-			"technologies": ["Astro", "UnoCSS", "Cloudflare", "HTML", "CSS", "TypeScript"]
-		},
-		{
-			"name": "Persönlicher Lebenslauf",
-			"url": "https://resume.thasmo.com/",
-			"start": "2025-01",
-			"technologies": ["Astro", "UnoCSS", "Cloudflare", "HTML", "CSS", "TypeScript"]
-		},
-		{
 			"name": "Media Processing Extension für TYPO3",
 			"description": "TYPO3 Extension zur Integration verschiedener Bildverarbeitungsbibliotheken und SaaS-Cloud-Dienste.",
 			"url": "https://github.com/somehow-digital/typo3-media-processing",
@@ -226,8 +224,8 @@
 			"technologies": ["Symfony", "Lettermint", "PHP", "Composer"]
 		},
 		{
-			"name": "Wetter Applikation",
-			"description": "Responsive Wetteranwendung, erstellt mit Vue und der Open-Meteo-API.",
+			"name": "Wetter App",
+			"description": "Responsive Wetter App, erstellt mit Vue und der Open-Meteo-API.",
 			"url": "https://weather.thasmo.dev/",
 			"start": "2025-06",
 			"technologies": ["Vue", "UnoCSS", "Vite", "Netlify", "HTML", "CSS", "TypeScript"]
@@ -254,12 +252,16 @@
 			"technologies": ["Astro", "UnoCSS", "HTML", "CSS", "TypeScript"]
 		},
 		{
-			"name": "packmule",
-			"description": "Konfigurationsgenerator für Webpack.",
-			"url": "https://github.com/packmule/packmule",
-			"start": "2018-03",
-			"end": "2023-04",
-			"technologies": ["Webpack", "TypeScript", "JavaScript", "lerna", "turborepo"]
+			"name": "Persönliche Website",
+			"url": "https://thasmo.com/",
+			"start": "2014-12",
+			"technologies": ["Astro", "UnoCSS", "Cloudflare", "HTML", "CSS", "TypeScript"]
+		},
+		{
+			"name": "Persönlicher Lebenslauf",
+			"url": "https://resume.thasmo.com/",
+			"start": "2025-01",
+			"technologies": ["Astro", "UnoCSS", "Cloudflare", "HTML", "CSS", "TypeScript"]
 		}
 	],
 	"technologies": [
