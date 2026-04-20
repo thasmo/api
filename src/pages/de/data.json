@@ -464,6 +464,11 @@
 			"name": "knip",
 			"level": 2,
 			"url": "https://knip.dev/"
+		},
+		{
+			"name": "Vite",
+			"level": 2,
+			"url": "https://vitejs.dev/"
 		}
 	],
 	"skills": [
