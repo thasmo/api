@@ -62,12 +62,17 @@
 			"name": "Fredmansky",
 			"company": "Fredmansky GmbH",
 			"url": "https://www.fredmansky.at/",
-			"technologies": ["Vue", "Craft CMS", "TypeScript", "PHP", "HTML", "Twig", "Tailwind", "Vite", "Sass", "CSS"],
+			"technologies": ["Vue", "Craft CMS", "TypeScript", "PHP", "HTML", "Twig", "Tailwind", "Vite", "Sass", "CSS", "Buddy Works"],
 			"positions": [
 				{
 					"name": "Senior Full-Stack Developer",
 					"start": "2025-09"
 				}
+			],
+			"tasks": [
+				"Interdisciplinary collaboration with colleagues and clients to develop customized web-based solutions by contributing technical expertise.",
+				"Implementation and optimization of modern website frontends based on web technologies (HTML, JS, CSS) using modern development and build tools.",
+				"Development and optimization of corporate and product websites based on Craft (CMS) for clients in the German-speaking region."
 			]
 		},
 		{
@@ -469,6 +474,11 @@
 			"name": "Vite",
 			"level": 2,
 			"url": "https://vitejs.dev/"
+		},
+		{
+			"name": "Buddy Works",
+			"level": 2,
+			"url": "https://buddy.works/"
 		}
 	],
 	"skills": [
