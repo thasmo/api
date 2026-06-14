@@ -13,7 +13,7 @@ importers:
         version: 13.7.0(@types/node@25.9.1)(astro@6.4.6(@types/node@25.9.1)(jiti@2.7.0)(rollup@4.62.0)(yaml@2.9.0))(jiti@2.7.0)(workerd@1.20260611.1)(wrangler@4.100.0)(yaml@2.9.0)
       '@dotenvx/dotenvx':
         specifier: ^1.36.0
-        version: 1.71.1
+        version: 1.71.3
       astro:
         specifier: ^6.0.0
         version: 6.4.6(@types/node@25.9.1)(jiti@2.7.0)(rollup@4.62.0)(yaml@2.9.0)
@@ -645,8 +645,8 @@ packages:
     resolution: {integrity: sha512-IchNf6dN4tHoMFIn/7OE8LWZ19Y6q/67Bmf6vnGREv8RSbBVb9LPJxEcnwrcwX6ixSvaiGoomAUvu4YSxXrVgw==}
     engines: {node: '>=12'}
 
-  '@dotenvx/dotenvx@1.71.1':
-    resolution: {integrity: sha512-vbVGJtpKJZOqlfjKPN//+cvFJyK2X9RgwoyWxVbEAVEl7tYYmNZNyGwZo9MTamJjUdWVbzIgJL0A04wmrhVF+w==}
+  '@dotenvx/dotenvx@1.71.3':
+    resolution: {integrity: sha512-WSmox5aD+XxJEUEOTk7gKLpd5+Iz9Nik89Zpbu5DijMln6LsFiv3xpNKBMc/b9sSkUlKvAblzrhik2TqKFE7NA==}
     hasBin: true
 
   '@dprint/formatter@0.5.1':
@@ -5155,7 +5155,7 @@ snapshots:
     dependencies:
       '@jridgewell/trace-mapping': 0.3.9
 
-  '@dotenvx/dotenvx@1.71.1':
+  '@dotenvx/dotenvx@1.71.3':
     dependencies:
       commander: 11.1.0
       dotenv: 17.4.2
