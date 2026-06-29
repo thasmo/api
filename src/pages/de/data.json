@@ -62,7 +62,7 @@
 			"name": "Fredmansky",
 			"company": "Fredmansky GmbH",
 			"url": "https://www.fredmansky.at/",
-			"technologies": ["Vue", "Craft CMS", "TypeScript", "PHP", "HTML", "Twig", "Tailwind", "Vite", "Sass", "CSS", "Buddy Works"],
+			"technologies": ["Vue", "Craft CMS", "TypeScript", "PHP", "HTML", "Twig", "Tailwind", "Vite", "Sass", "CSS", "Buddy Works", "DDEV", "AutoDNS"],
 			"positions": [
 				{
 					"name": "Senior Full-Stack Entwickler",
@@ -72,7 +72,8 @@
 			"tasks": [
 				"Interdisziplinäre Zusammenarbeit mit Kollegen und Kunden zur Entwicklung individueller Lösungen unter Einbringung technischer Expertise.",
 				"Umsetzung und Optimierung moderner Website Frontends basierend auf Web-Technologien unter Anwendung moderner Entwicklungs- und Build-Tools.",
-				"Entwicklung und Optimierung von Corporate und Product Websites basierend auf Craft (CMS) für Kunden im deutschsprachigen Raum."
+				"Entwicklung und Optimierung von Corporate und Product Websites basierend auf Craft (CMS) für Kunden im deutschsprachigen Raum.",
+				"Entwicklung und Optimierung einer internen Projektvorlage basierend auf Craft (CMS) und Vite."
 			]
 		},
 		{
@@ -479,6 +480,16 @@
 			"name": "Buddy Works",
 			"level": 2,
 			"url": "https://buddy.works/"
+		},
+		{
+			"name": "DDEV",
+			"level": 2,
+			"url": "https://ddev.com/"
+		},
+		{
+			"name": "AutoDNS",
+			"level": 2,
+			"url": "https://www.autodns.com/"
 		}
 	],
 	"skills": [
