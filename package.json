@@ -24,7 +24,7 @@
 	},
 	"dependencies": {
 		"@astrojs/cloudflare": "^14.0.0",
-		"@dotenvx/dotenvx": "^1.36.0",
+		"@dotenvx/dotenvx": "^2.0.0",
 		"astro": "^7.0.0"
 	},
 	"devDependencies": {
