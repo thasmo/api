@@ -13,7 +13,7 @@ importers:
         version: 14.1.4(@types/node@25.9.1)(astro@7.1.3(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.2)(@types/node@25.9.1)(jiti@2.7.0)(rollup@4.62.0)(yaml@2.9.0))(esbuild@0.28.1)(jiti@2.7.0)(wrangler@4.112.0)(yaml@2.9.0)
       '@dotenvx/dotenvx':
         specifier: ^2.0.0
-        version: 2.15.1
+        version: 2.17.1
       astro:
         specifier: ^7.0.0
         version: 7.1.3(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.2)(@types/node@25.9.1)(jiti@2.7.0)(rollup@4.62.0)(yaml@2.9.0)
@@ -760,15 +760,15 @@ packages:
     resolution: {integrity: sha512-IchNf6dN4tHoMFIn/7OE8LWZ19Y6q/67Bmf6vnGREv8RSbBVb9LPJxEcnwrcwX6ixSvaiGoomAUvu4YSxXrVgw==}
     engines: {node: '>=12'}
 
-  '@dotenvx/dotenvx@2.15.1':
-    resolution: {integrity: sha512-t5eUkF4HV5qMAY+lg2ZYzPhso5i8EJHPvYKkzot0R4V08ivMs/w4HVe95bR9U2AGTTlSU5AA141mA6dRYRrn6g==}
+  '@dotenvx/dotenvx@2.17.1':
+    resolution: {integrity: sha512-H8tbSn2a7izztsyz4S9rRUjlniJYuL6XfUBt5H2gRQwRXP94dUL3RNMMz46r5jfLmmjALQUhWzL+M8HagN5rfQ==}
     hasBin: true
 
   '@dotenvx/primitives@2.1.0':
     resolution: {integrity: sha512-GIpMSSgjZk4URRCtAw12vBmobnw3VeSKL+p7/y8ypWvTHFW+StAMZvq4wCjdX+QKuw4alXu0IMGW6QPhKo6ufg==}
 
-  '@dotenvx/tooling@1.0.2':
-    resolution: {integrity: sha512-yf4VwIZUzSqlLy2pe0kH2xk6dME73oYW5XqcHE7M1zA1H0RX/dSUThsSRmpCjp622iW9f6VGQl5Aa6szt5Xc0w==}
+  '@dotenvx/tooling@1.0.3':
+    resolution: {integrity: sha512-Gd6qQol/ICb4MPRWpiIH56y+pR9AVB7kPBkbhrLSGLtAiF4Qgy+k651/f2pze0Xbm3H5XewbPfIm4y9K+ic30Q==}
 
   '@dprint/formatter@0.5.1':
     resolution: {integrity: sha512-cdZUrm0iv/FnnY3CKE2dEcVhNEzrC551aE2h2mTFwQCRBrqyARLDnb7D+3PlXTUVp3s34ftlnGOVCmhLT9DeKA==}
@@ -5313,15 +5313,15 @@ snapshots:
     dependencies:
       '@jridgewell/trace-mapping': 0.3.9
 
-  '@dotenvx/dotenvx@2.15.1':
+  '@dotenvx/dotenvx@2.17.1':
     dependencies:
       '@dotenvx/primitives': 2.1.0
-      '@dotenvx/tooling': 1.0.2
+      '@dotenvx/tooling': 1.0.3
       yocto-spinner: 1.2.2
 
   '@dotenvx/primitives@2.1.0': {}
 
-  '@dotenvx/tooling@1.0.2': {}
+  '@dotenvx/tooling@1.0.3': {}
 
   '@dprint/formatter@0.5.1': {}
 
