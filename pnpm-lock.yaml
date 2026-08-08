@@ -13,7 +13,7 @@ importers:
         version: 14.2.0(@types/node@26.1.2)(astro@7.2.0(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(yaml@2.9.0))(esbuild@0.28.1)(jiti@2.7.0)(wrangler@4.120.0)(yaml@2.9.0)
       '@dotenvx/dotenvx':
         specifier: ^2.0.0
-        version: 2.19.2
+        version: 2.20.0
       astro:
         specifier: ^7.0.0
         version: 7.2.0(@emnapi/core@2.0.0-alpha.3)(@emnapi/runtime@2.0.0-alpha.3)(@types/node@26.1.2)(jiti@2.7.0)(yaml@2.9.0)
@@ -716,12 +716,12 @@ packages:
     resolution: {integrity: sha512-IchNf6dN4tHoMFIn/7OE8LWZ19Y6q/67Bmf6vnGREv8RSbBVb9LPJxEcnwrcwX6ixSvaiGoomAUvu4YSxXrVgw==}
     engines: {node: '>=12'}
 
-  '@dotenvx/dotenvx@2.19.2':
-    resolution: {integrity: sha512-LxCONUB/jg7RtKqsCUMNBoQRfnA8Vt+wGxjgMS1UJBqLXYzgg1FOfzABGQ5dGSYTaZCKBN12uWVbF1rVi45+QA==}
+  '@dotenvx/dotenvx@2.20.0':
+    resolution: {integrity: sha512-NwXzFAfCTamCQMdUXbiObEVbUUt3/iOvouOshIub/2rtxQ4rvQk3822/FVJz6F4HbTlU+ZwLbwWXNK3l24ZDdQ==}
     hasBin: true
 
-  '@dotenvx/primitives@2.1.2':
-    resolution: {integrity: sha512-d7cmVY8LA4SlgSCDyB7tOPLPpinE1959/hXEd+euUGeAK/6QBEmdD+yDOrcanbzBwwqQxpYts0ETa+W+GOgLtg==}
+  '@dotenvx/primitives@2.2.0':
+    resolution: {integrity: sha512-jrUocPqHfGeYuvNKmrzNJCIHW7Xb6m5CuxUESyCHmGlzQByho2EdX45ctfTgWSELeSrcfwuB0Q8iHdlmmlxhUA==}
 
   '@dotenvx/tooling@1.0.3':
     resolution: {integrity: sha512-Gd6qQol/ICb4MPRWpiIH56y+pR9AVB7kPBkbhrLSGLtAiF4Qgy+k651/f2pze0Xbm3H5XewbPfIm4y9K+ic30Q==}
@@ -4991,13 +4991,13 @@ snapshots:
     dependencies:
       '@jridgewell/trace-mapping': 0.3.9
 
-  '@dotenvx/dotenvx@2.19.2':
+  '@dotenvx/dotenvx@2.20.0':
     dependencies:
-      '@dotenvx/primitives': 2.1.2
+      '@dotenvx/primitives': 2.2.0
       '@dotenvx/tooling': 1.0.3
       yocto-spinner: 1.2.2
 
-  '@dotenvx/primitives@2.1.2': {}
+  '@dotenvx/primitives@2.2.0': {}
 
   '@dotenvx/tooling@1.0.3': {}
 
