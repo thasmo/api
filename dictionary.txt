@@ -16,3 +16,4 @@ mailpit
 esbuild
 workerd
 voidzero
+tsrs
